@@ -1,7 +1,7 @@
 
-<b>Полезные ссылки Open CV</b>: https://robocraft.ru/page/opencv/
-<b>Распознование лиц</b>: https://habr.com/ru/post/260741/
-<b>Python</b>
+<b>Полезные ссылки Open CV</b>: https://robocraft.ru/page/opencv/<br>
+<b>Распознование лиц</b>: https://habr.com/ru/post/260741/<br>
+<b>Python</b><br>
 <ul>
   <li>https://tproger.ru/translations/opencv-python-guide/#install
 </li>
