@@ -1,0 +1,15 @@
+C:\Users\sergi\source\repos\wpf_calc\bin\Debug\wpf_calc.exe.config
+C:\Users\sergi\source\repos\wpf_calc\bin\Debug\wpf_calc.exe
+C:\Users\sergi\source\repos\wpf_calc\bin\Debug\wpf_calc.pdb
+C:\Users\sergi\source\repos\wpf_calc\obj\Debug\wpf_calc.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\wpf_calc\obj\Debug\MainWindow.g.cs
+C:\Users\sergi\source\repos\wpf_calc\obj\Debug\App.g.cs
+C:\Users\sergi\source\repos\wpf_calc\obj\Debug\wpf_calc_MarkupCompile.cache
+C:\Users\sergi\source\repos\wpf_calc\obj\Debug\wpf_calc_MarkupCompile.lref
+C:\Users\sergi\source\repos\wpf_calc\obj\Debug\MainWindow.baml
+C:\Users\sergi\source\repos\wpf_calc\obj\Debug\wpf_calc.g.resources
+C:\Users\sergi\source\repos\wpf_calc\obj\Debug\wpf_calc.Properties.Resources.resources
+C:\Users\sergi\source\repos\wpf_calc\obj\Debug\wpf_calc.csproj.GenerateResource.cache
+C:\Users\sergi\source\repos\wpf_calc\obj\Debug\wpf_calc.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\wpf_calc\obj\Debug\wpf_calc.exe
+C:\Users\sergi\source\repos\wpf_calc\obj\Debug\wpf_calc.pdb
